@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "moduleResolution": "node",
+    "allowJs": true,
+    "strict": false,
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "allowSyntheticDefaultImports": true,
+    "jsx": "react",
+    "paths": {}
+  },
+  "exclude": ["node_modules", "**/node_modules", "dist", "**/dist", "**/*/__tests__", "**/*/__mocks__"]
+}
